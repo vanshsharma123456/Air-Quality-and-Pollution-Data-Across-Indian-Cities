@@ -1,4 +1,4 @@
-#Air Quality Data Analysis Overview This project involves an in-depth analysis of the Realtime Air Quality Index (AQI) dataset. The goal is to understand air pollution patterns, assess their impact on public health, and provide actionable insights. The analysis includes pollutant correlation, trends, and compliance checks using various Python libraries.
+Air Quality Data Analysis Overview This project involves an in-depth analysis of the Realtime Air Quality Index (AQI) dataset. The goal is to understand air pollution patterns, assess their impact on public health, and provide actionable insights. The analysis includes pollutant correlation, trends, and compliance checks using various Python libraries.
 
 Project Details Key Insights: Pollutant Correlation: Analyzed the relationship between key pollutants (PM2.5, PM10, NO2, SO2, CO) to identify areas that need targeted interventions.
 
